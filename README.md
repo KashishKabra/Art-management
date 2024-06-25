@@ -1,4 +1,4 @@
-#Art Management System
+# Art Management System
 
 The Art Management System is a Java Swing application developed using NetBeans. It allows artists to manage their portfolios and artworks efficiently.
 
